@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Change to user's directory
+cd ~/.
+
 # Update system packages
 sudo apt update
 
